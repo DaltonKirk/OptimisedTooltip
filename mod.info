@@ -1,0 +1,5 @@
+name=Optimised Tooltip
+poster=poster.png
+id=DisableRipTooltip
+description=Disables the rip clothing tooltip to prevent the game locking up when the game has a lot of clothing added via mods.
+url=https://theindiestone.com/forums/
